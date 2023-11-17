@@ -1,6 +1,6 @@
 # Song Recommender from Audio Data
 
-![Project Image Record](https://assets.datacamp.com/production/project_449/img/iphone_music.jpg](https://pbs.twimg.com/media/Ec-AKerUcAAdwbW.jpg)
+![Project Image Record](https://miro.medium.com/v2/resize:fit:1068/0*dk3UVBpGMZZmz25S.jpg)
 
 ## Introduction
 
