@@ -2,6 +2,16 @@
 
 ![Project Image Record](https://miro.medium.com/v2/resize:fit:1068/0*dk3UVBpGMZZmz25S.jpg)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white&link=https://www.python.org/)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue?style=flat&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?style=flat&logo=numpy&logoColor=white&link=https://numpy.org/)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue?style=flat&logo=matplotlib&logoColor=white&link=https://matplotlib.org/)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-0.24.2-blue?style=flat&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Project-green?style=flat&link=https://en.wikipedia.org/wiki/Machine_learning)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-Analysis-yellow?style=flat&link=https://en.wikipedia.org/wiki/Data_visualization)
+![PCA](https://img.shields.io/badge/PCA-Principal_Component_Analysis-purple?style=flat&link=https://en.wikipedia.org/wiki/Principal_component_analysis)
+
+
 ## Introduction
 
 This Colab notebook explores the task of building a song recommender system based on audio data analysis. The goal is to classify songs into either 'Hip-Hop' or 'Rock' genres without listening to them. This recommendation system relies on analyzing audio features and applying machine learning algorithms.
